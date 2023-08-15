@@ -268,7 +268,7 @@ footer {
 }
 .project-btn{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
 }
 .social {
     text-align: right;
