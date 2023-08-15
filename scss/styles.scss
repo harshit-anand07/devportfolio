@@ -266,7 +266,10 @@ footer {
         color: $text;
     }
 }
-
+.project-btn{
+    display: flex;
+    justify-content: space-between;
+}
 .social {
     text-align: right;
 
